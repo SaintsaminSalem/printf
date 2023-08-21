@@ -1,5 +1,7 @@
-
 #include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdarg.h>
 
 /**
  * get_precision - Calculates the precision for printing
